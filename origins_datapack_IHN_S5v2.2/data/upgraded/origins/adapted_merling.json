@@ -10,8 +10,6 @@
         "origins:air_from_potions",
         "upgraded:reinforced_scale",
         "upgraded:neptune_blessing",
-        "roubar:pvp_toggle",
-        "roubar:uhc",
         "roubar:merling_hp"
     ],
     "icon": {

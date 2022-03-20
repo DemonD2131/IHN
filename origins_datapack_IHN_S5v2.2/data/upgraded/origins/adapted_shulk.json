@@ -10,9 +10,7 @@
         "upgraded:juggernaut_toggle",
         "upgraded:juggernaut_slowness",
         "upgraded:juggernaut_blindness",
-        "upgraded:choruseat",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "upgraded:choruseat"
     ],
     "icon": "minecraft:shulker_shell",
     "unchoosable": true,

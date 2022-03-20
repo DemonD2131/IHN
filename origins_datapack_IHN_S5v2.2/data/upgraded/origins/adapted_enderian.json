@@ -11,9 +11,7 @@
         "upgraded:eyes_of_the_end",
         "upgraded:entity_glow",
         "upgraded:glowtoggle",
-        "roubar:enderpearl_heal",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:enderpearl_heal"
     ],
     "icon": {
         "item": "minecraft:ender_pearl"

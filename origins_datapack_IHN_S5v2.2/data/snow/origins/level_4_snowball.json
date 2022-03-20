@@ -15,8 +15,6 @@
 	"snow:noeat2",
 	"snow:particle",
 	"snow:heal_ice",
-	"roubar:pvp_toggle",
-	"roubar:uhc",
 	"snow:snow_toggle"
 	],
 	"icon": "minecraft:snowball",

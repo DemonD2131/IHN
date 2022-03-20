@@ -13,8 +13,6 @@
 	"snow:reset2",
 	"snow:color",
 	"snow:particle",
-	"roubar:pvp_toggle",
-	"roubar:uhc",
 	"snow:snow_toggle"
 	],
 	"icon": "minecraft:snowball",

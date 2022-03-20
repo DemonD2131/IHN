@@ -10,9 +10,7 @@
         "upgraded:avian_resource_2",
         "upgraded:change_avian_resource",
         "upgraded:absolute_velocity",
-        "roubar:heightheal",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:heightheal"
     ],
     "icon": {
         "item": "minecraft:feather"

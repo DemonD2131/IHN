@@ -1,8 +1,6 @@
 {
     "powers": [
-        "upgraded:die",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "upgraded:die"
     ],
     "icon": {
         "item": "minecraft:bedrock"

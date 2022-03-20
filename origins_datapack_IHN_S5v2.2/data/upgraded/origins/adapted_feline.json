@@ -11,8 +11,6 @@
         "upgraded:pounce",
         "upgraded:feline_resource",
         "upgraded:change_feline_resource",
-        "roubar:pvp_toggle",
-        "roubar:uhc",
         "roubar:fishes"
     ],
     "icon": "minecraft:orange_wool",
