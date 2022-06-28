@@ -9,8 +9,7 @@
         "roubar:reset",
         "roubar:scalereset",
         "roubar:heightheal",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:pvp_toggle"
     ],
     "icon": {
         "item": "minecraft:feather"

@@ -13,8 +13,7 @@
         "ashskel:infprotect",
         "ashskel:reset",
         "ashskel:nether_spawn",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:pvp_toggle"
     ],
     "icon": "minecraft:wither_skeleton_skull",
     "order": 12,

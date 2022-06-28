@@ -9,8 +9,7 @@
         "roubar:more_exhaustion",
         "roubar:reset",
         "roubar:scalereset",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:pvp_toggle"
     ],
     "icon": {
         "item": "minecraft:shulker_shell"

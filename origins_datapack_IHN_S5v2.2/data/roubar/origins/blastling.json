@@ -21,6 +21,7 @@
     },
     "order": 5,
     "impact": 2,
+    "unchoosable": true,
     "name": "Blastling- WARNING THIS ORIGIN DOESN'T WORK PROPERLY YOUR OWN EXPLOSIONS WILL KILL YOU AT RANDOM TIMES YOU HAVE BEEN WARNED",
     "description": "The first born from the chaos of the the world, Blastlings are a rare sight to behold. Their explosive natures serve as both a positive and negative for them...",
     "upgrades": {

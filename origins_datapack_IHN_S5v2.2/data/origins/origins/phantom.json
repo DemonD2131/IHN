@@ -12,9 +12,7 @@
         "roubar:reset",
         "roubar:scalereset",
         "roubar:pvp_toggle",
-        "roubar:uhc",
         "roubar:phantominteract",
-        "roubar:suffocationfix",
         "roubar:elytrianmembrane"
     ],
     "icon": {

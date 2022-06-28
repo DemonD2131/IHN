@@ -10,8 +10,7 @@
         "roubar:reset",
         "roubar:scalereset",
         "roubar:enderpearl_heal",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:pvp_toggle"
     ],
     "icon": {
         "item": "minecraft:ender_pearl"

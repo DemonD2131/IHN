@@ -14,8 +14,7 @@
         "ashskel:withered",
         "ashskel:nether_spawn",
         "ashskel:wilting",
-        "roubar:pvp_toggle",
-        "roubar:uhc"
+        "roubar:pvp_toggle"
     ],
     "icon": "minecraft:wither_skeleton_skull",
     "order": 2,
